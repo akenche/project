@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background: #000;
+    color: white;
+    display: flex;
+    line-height: 80px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+}
+
+.list li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px
+}
+
